@@ -1,0 +1,28 @@
+table, td, th {
+    border: 2px solid;
+    border-collapse: collapse;
+    border-color: darkblue;
+    text-align: center;
+    background-color: lightblue;
+}
+
+table {
+    width: 80%;
+    margin: auto;
+}
+
+th {
+    background-color: darkturquoise;
+    text-transform: uppercase;
+}
+
+h1, h3 {
+    text-align: center;
+    color: darkred;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#tags, #attributes {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkslategray;
+}
